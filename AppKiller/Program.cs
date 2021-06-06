@@ -9,12 +9,9 @@ namespace AppKiller
     {
         static void Main(string[] args)
         {
-            Process[] allProcesses = Process.GetProcesses();
             Console.WriteLine($"Process name: {args[0]}\nLifeTimeMinutes: {args[1]}\nCheckFrequency: {args[2]}\n");
             
             KillProcessOverTimeCycle(args[0], Convert.ToInt32(args[1]), Convert.ToInt32(args[2]));
-            Process[] allProcessesNow = Process.GetProcesses();
-
 
             Console.ReadLine();
         }
