@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppKiller": {
+      "commandName": "Project",
+      "commandLineArgs": "utorrent 1 1"
+    }
+  }
+}

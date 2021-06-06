@@ -1,0 +1,13 @@
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.exe
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.deps.json
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.runtimeconfig.json
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.runtimeconfig.dev.json
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.dll
+D:\DEV\Job\Veeam\AppKiller\AppKiller\bin\Debug\netcoreapp3.1\AppKiller.pdb
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.csprojAssemblyReference.cache
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.AssemblyInfoInputs.cache
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.AssemblyInfo.cs
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.csproj.CoreCompileInputs.cache
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.dll
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.pdb
+D:\DEV\Job\Veeam\AppKiller\AppKiller\obj\Debug\netcoreapp3.1\AppKiller.genruntimeconfig.cache
